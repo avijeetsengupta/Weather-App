@@ -6,6 +6,7 @@ body {
     margin: 0;
     font-family: sans-serif;
     background: #222;
+    background-repeat: no-repeat;
     background-image: url('https://source.unsplash.com/weekly?landscape');
 }
 
